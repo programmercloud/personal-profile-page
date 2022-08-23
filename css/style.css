@@ -209,9 +209,3 @@ a:hover {
 .card-btn.btn-orange:hover {
   box-shadow: 0px 7px 30px rgba(223, 45, 70, 0.75);
 }
-
-.card-btn.button--gray {
-  box-shadow: none;
-  background: #dcdcdc;
-  color: #142029;
-}
